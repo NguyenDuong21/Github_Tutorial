@@ -8,3 +8,5 @@
 // git diff : xem những thay đổi giữa các commit với nhau VD: git diff b325c da985
 // git log : hiển thị những commit . VD : 1. git log -<n>: hiển thị n commit, 2. git log --oneline : hiển thị toàn bộ commit
 // git reset tênfile : xóa file ra khỏi staging area
+// git checkout -- tenfile: bỏ những thay đổi của những file đã add.
+// git branch: kiểm tra xem mình có những nhánh nào
