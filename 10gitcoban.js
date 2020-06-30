@@ -10,3 +10,6 @@
 // git reset tênfile : xóa file ra khỏi staging area
 // git checkout -- tenfile: bỏ những thay đổi của những file đã add.
 // git branch: kiểm tra xem mình có những nhánh nào
+// git checkout -b tennhanh: tạo nhánh mới vào trỏ đến nhánh đó.
+// gittk : mở giao diện git
+// git checkout tennhanh : chuyển sang nhánh có tennhanh để làm việc
