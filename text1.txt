@@ -1,0 +1,4 @@
+hello world
+
+-restore file in Staging Area
+git restore --staged namefile or .
