@@ -5,3 +5,12 @@ git restore --staged namefile or .
 lan 1
 aaaaaaaaaaaaaaaaaaaaaaaaabbbbbbbbbbbbb
 cccccccccccccccccccccccccccccccccccc
+
+aaaaaaaaaaaaaaaaaaaaaaaaabbbbbbbbbbbbb
+cccccccccccccccccccccccccccccccccccc
+
+aaaaaaaaaaaaaaaaaaaaaaaaabbbbbbbbbbbbb
+cccccccccccccccccccccccccccccccccccc
+
+aaaaaaaaaaaaaaaaaaaaaaaaabbbbbbbbbbbbb
+cccccccccccccccccccccccccccccccccccc
