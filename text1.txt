@@ -1,5 +1,6 @@
 hello world
-đây là phần thêm mới để thể hiện lỗi conflig được thêm vào bởi yen
+đây là phần thêm mới để thể hiện lỗi conflig được thêm vào bởi duong
+duong gioi thieu them moi lan 2
 -restore file in Staging Area
 git restore --staged namefile or .
 lan 1
